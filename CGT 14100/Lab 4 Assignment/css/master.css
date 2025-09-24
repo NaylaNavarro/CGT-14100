@@ -1,0 +1,61 @@
+#header img{
+    width: 774px;
+    height: 79px;
+}
+#page-container {
+    /* padding: 20px; */
+    width: 774px;
+}
+#content{
+    border-width: 2px;
+    border-color:black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    float: left;
+    width: 475px;
+    border-style: solid;
+    padding: 20px;
+    padding-right: 30px;
+
+}
+#sidebar{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    float: right;
+    width: 208px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    padding: 20px;
+    border-left: 1px;
+    padding-left: 15px;
+}
+#h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14pt;
+    padding-bottom: 20px;
+}
+#h2{
+    font-size: 24pt;
+    padding-bottom: 20px;
+}
+#p{
+    font-size: 12pt;
+    word-spacing: 120%;
+    text-decoration-color: #5a5a5a;
+    padding: 5px;
+}
+#axolotl img{
+    float:right;
+    float:middle;
+    border-style:solid;
+    border-width: 1px;
+    border-color:black;
+    width: 163px;
+    height: 122px;
+    text-wrap: 5px;
+    
+}
+#Read{
+    color:rgb(65, 116, 225)
+}

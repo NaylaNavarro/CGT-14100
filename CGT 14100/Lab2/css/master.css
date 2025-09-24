@@ -1,0 +1,16 @@
+#page-container {
+    width: 760px;
+}
+#content {
+    margin-right: 250;
+    background: white;
+}
+h1,h2 {
+    margin: 0;
+    padding: 0;
+}
+#sidebar {
+    float: right;
+    width: 250px;
+    background: yellow;
+}
