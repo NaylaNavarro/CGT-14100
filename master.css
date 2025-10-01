@@ -1,0 +1,23 @@
+h1{
+    text-align:center;
+    font-size:26pt;
+    font-weight:normal;
+    color:red;
+}
+h2{
+    text-align:center;
+    color:aqua;
+}
+body{
+    background-color:black;
+    text-align:center;
+    color:greenyellow;
+}
+h3{
+    color:blueviolet;
+}
+h4{
+    font-size: large;
+    font-family:'Courier New', Courier, monospace;
+    color:aliceblue;
+}
